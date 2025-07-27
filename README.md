@@ -91,7 +91,7 @@ springdoc.swagger-ui.path=/swagger-ui.html
 ### 🔗 Base URL
 
 ```
-http://localhost:8080/api/blogs
+http://localhost:8080/api/blog
 ```
 
 | Method | Endpoint          | Description        |
