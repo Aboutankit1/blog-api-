@@ -96,11 +96,11 @@ http://localhost:8080/api/blogs
 
 | Method | Endpoint          | Description        |
 | ------ | ----------------- | ------------------ |
-| POST   | `/api/blogs`      | Create a blog post |
-| GET    | `/api/blogs`      | Get all blogs      |
-| GET    | `/api/blogs/{id}` | Get blog by ID     |
-| PUT    | `/api/blogs/{id}` | Update blog by ID  |
-| DELETE | `/api/blogs/{id}` | Delete blog by ID  |
+| POST   | `/api/blog/create`      | Create a blog post |
+| GET    | `/api/blog/all`      | Get all blogs      |
+| GET    | `/api/blog/{id}` | Get blog by ID     |
+| PUT    | `/api/blog/update{id}` | Update blog by ID  |
+| DELETE | `/api/blog/delete{id}` | Delete blog by ID  |
 
 ---
 
@@ -124,7 +124,7 @@ http://localhost:8080/swagger-ui/index.html
 
 **Ankit Kumar**
 💼 Java Backend Developer
-📧 [ankit@example.com](mailto:ankit@example.com) *(Replace with your actual email)*
+📧 [aboutankit4@gmail.com] 
 
 ---
 
